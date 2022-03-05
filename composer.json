@@ -1,0 +1,10 @@
+{
+    "name": "ocdladefense/lib-gis",
+    "description": "GIS data, especialy for Oregon.",
+    "type": "library",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "autoload": {
+        "classmap":["src/"]
+    }
+}
