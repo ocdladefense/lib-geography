@@ -54,7 +54,7 @@ class Oregon {
 
 		return array(
 			"" 						 => "All Courts",
-			"Oregon Appellate Court" => "Oregon Appellate Court",
+			"Oregon Court of Appeals" => "Oregon Court of Appeals",
 			"Oregon Supreme Court"   => "Oregon Supreme Court"
 		);
 	}
