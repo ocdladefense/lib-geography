@@ -50,7 +50,7 @@ class Oregon {
 
 
 
-	public static function getAppellateCourts(){
+	public static function getCourts($type = "APPELLATE"){
 
 		return array(
 			"" 						 => "All Courts",
