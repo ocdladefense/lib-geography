@@ -5,7 +5,7 @@ namespace GIS\Political\Countries\US;
 
 class Oregon {
 
-	public function getCounties() {
+	public static function getCounties() {
 
 		return array(
 			"Baker" 		=> "Baker",
@@ -50,7 +50,7 @@ class Oregon {
 
 
 
-	public function getAppellateCourts(){
+	public static function getAppellateCourts(){
 
 		return array(
 			"" 						 => "All Courts",
